@@ -1,0 +1,40 @@
+﻿body{
+
+     
+font-family: verdana;
+}
+#header {
+background-color:#C40D42;
+color:white;
+text-align:center;
+padding:5px;
+
+
+}
+#nav {
+line-height:30px;
+background-color:#eeeeee;
+height:2000px;
+width:200px;
+float:left;
+padding:5px;
+
+}
+#section {
+width:700px;
+float:left;
+padding:0px;
+text-align:right;
+
+
+}
+#footer {
+    background-color: #C40D42;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+    margin-bottom:2000px;
+}
+
+
